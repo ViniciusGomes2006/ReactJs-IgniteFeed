@@ -1,6 +1,9 @@
-# First Project | Node.js with EJS
+# Ignite Feed | ReactJs
 
-![Preview](.github/preview.png)
+<li>Preview: https://www.figma.com/community/file/1113573231685349036
+
+<br>
+<br>
 
 <p>
     This project is a simple front-end based on some social networks... With this front-end I managed to learn several things with css, module.css and among others... using classes all the time, sometimes it was better to just access content through the class and the name of the content than to create a name for each content on the page...
