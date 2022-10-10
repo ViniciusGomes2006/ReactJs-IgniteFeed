@@ -1,0 +1,5 @@
+.container {
+    width: 52rem;
+
+    background-color: var(--gray-800);
+}
