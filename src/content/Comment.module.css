@@ -70,7 +70,7 @@
     transition: 0.1s;
 }
 
-.commentBox footer button span {
+.commentBox footer button p {
     margin-left: 0.5rem;
 }
 
