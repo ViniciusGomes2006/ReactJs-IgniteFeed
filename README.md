@@ -1,7 +1,7 @@
 # Ignite Feed | ReactJs
 
 <li>Preview: https://www.figma.com/community/file/1113573231685349036
-<li>LivePreview: https://ignitefeed-dusky.vercel.app/
+<li>LivePreview: https://reactjs-ignitefeed.vercel.app/
 
 <br>
 <br>
